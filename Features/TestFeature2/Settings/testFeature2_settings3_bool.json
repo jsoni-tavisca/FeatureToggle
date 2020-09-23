@@ -1,0 +1,5 @@
+{
+	"desc":"settings3 desc",
+	"defaultValue":true,
+	"valueType":"bool"
+}

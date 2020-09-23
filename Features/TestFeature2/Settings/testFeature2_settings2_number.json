@@ -1,0 +1,5 @@
+{
+	"desc":"settings2 desc",
+	"defaultValue":123,
+	"valueType":"number"
+}

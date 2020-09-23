@@ -1,0 +1,6 @@
+{
+	"desc":"test feature toggle description",
+	"type":"multivariant",
+  "defaultValue": "abc",
+  "possibleValues": ["abc", "xyz"]
+}
