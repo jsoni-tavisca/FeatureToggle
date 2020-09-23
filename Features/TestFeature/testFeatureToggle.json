@@ -1,0 +1,6 @@
+{
+	"desc":"test feature toggle description",
+	"type":"boolean",
+	"possibleValues":["value1","value2"],
+	"defaultValue":"value1"	
+}

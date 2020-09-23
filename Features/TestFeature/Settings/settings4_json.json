@@ -1,0 +1,10 @@
+{
+	"desc": "settings4 desc",
+	"defaultValue": {
+		"key1": "value1",
+		"key2": {
+			"subKey1": "subValue1"
+		}
+	},
+	"valueType": "string"
+}
