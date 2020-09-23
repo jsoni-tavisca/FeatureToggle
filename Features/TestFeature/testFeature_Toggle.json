@@ -1,5 +1,9 @@
 {
-	"desc":"test feature toggle description",
-	"type":"boolean",
-	"defaultValue":false	
+  //can be updated
+  "desc": "test feature toggle description",
+
+  "type": "boolean",
+
+  //can be updated
+  "defaultValue": false
 }

@@ -1,6 +1,12 @@
 {
-	"desc":"test feature toggle description",
-	"type":"multivariant",
+  //can be updated
+  "desc": "test feature toggle description",
+
+  "type": "multivariant",
+
+  //can be updated
   "defaultValue": "abc",
-  "possibleValues": ["abc", "xyz"]
+
+  //can be updated (cannot remove existing possible value but can add another possible value)
+  "possibleValues": [ "abc", "xyz" ]
 }

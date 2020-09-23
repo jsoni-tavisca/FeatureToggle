@@ -1,5 +1,9 @@
 {
-	"desc":"settings1 desc",
-	"defaultValue":"abc",
-	"valueType":"string"
+  //can be updated
+  "desc": "settings1 desc",
+
+  //can be updated
+  "defaultValue": "abc",
+
+  "valueType": "string"
 }

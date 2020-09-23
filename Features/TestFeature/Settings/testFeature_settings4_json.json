@@ -1,10 +1,14 @@
 {
-	"desc": "settings4 desc",
-	"defaultValue": {
-		"key1": "value1",
-		"key2": {
-			"subKey1": "subValue1"
-		}
-	},
-	"valueType": "string"
+  //can be updated
+  "desc": "settings4 desc",
+
+  //can be updated
+  "defaultValue": {
+    "key1": "value1",
+    "key2": {
+      "subKey1": "subValue1"
+    }
+  },
+
+  "valueType": "string"
 }
