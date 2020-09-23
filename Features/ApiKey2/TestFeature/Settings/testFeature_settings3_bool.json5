@@ -1,0 +1,9 @@
+{
+  //can be updated
+  "desc": "settings3 desc", 
+
+  //can be updated
+  "defaultValue": true,
+
+  "valueType": "bool"
+}

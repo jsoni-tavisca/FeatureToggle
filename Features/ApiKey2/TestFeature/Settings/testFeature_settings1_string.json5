@@ -1,0 +1,9 @@
+{
+  //can be updated
+  "desc": "settings1 desc",
+
+  //can be updated
+  "defaultValue": "abc",
+
+  "valueType": "string"
+}
